@@ -1,0 +1,1156 @@
+{
+    "A.": [
+        "autor"
+    ],
+    "AA.": [
+        "autores"
+    ],
+    "a/c": [
+        "ao cuidado de"
+    ],
+    "a. C.": [
+        "antes de Cristo"
+    ],
+    "a. D.": [
+        "Anno Domini (Ano do Senhor)"
+    ],
+    "a. l.": [
+        "ano-luz"
+    ],
+    "a. m.": [
+        "ante meridiem (antes do meio dia)"
+    ],
+    "abrev.": [
+        "abreviatura"
+    ],
+    "al.": [
+        "alameda"
+    ],
+    "art.": [
+        "artigo"
+    ],
+    "at.º": [
+        "atento"
+    ],
+    "at.te": [
+        "atenciosamente"
+    ],
+    "av.": [
+        "avenida"
+    ],
+    "bol.": [
+        "boletim"
+    ],
+    "C.ª": [
+        "companhia"
+    ],
+    "c/c": [
+        "conta-corrente"
+    ],
+    "cap.": [
+        "capítulo"
+    ],
+    "cat.": [
+        "catálogo"
+    ],
+    "cf.": [
+        "confronte",
+        "confira"
+    ],
+    "cit.": [
+        "citação",
+        "citado"
+    ],
+    "cód.": [
+        "código"
+    ],
+    "col.": [
+        "coluna"
+    ],
+    "colet.": [
+        "coletânea"
+    ],
+    "cp.": [
+        "compare"
+    ],
+    "d. C.": [
+        "depois de Cristo"
+    ],
+    "D.": [
+        "Dom",
+        "Dona"
+    ],
+    "Dig.mo": [
+        " Digníssimo"
+    ],
+    "doc.": [
+        "documento"
+    ],
+    "Dr.": [
+        "Doutor"
+    ],
+    "Dr.ª": [
+        "Doutora"
+    ],
+    "E. C.": [
+        "abreviatura de Era Cristã ou Era Comum"
+    ],
+    "E. D.": [
+        "espera deferimento"
+    ],
+    "e. g.": [
+        "exempli gratia (por exemplo)"
+    ],
+    "ed.": [
+        "edição"
+    ],
+    "enc.": [
+        "encadernado ou encadernação"
+    ],
+    "Eng.": [
+        "Engenheiro"
+    ],
+    "Eng.ª": [
+        "Engenheira"
+    ],
+    "et al.": [
+        "et alli (entre outros)"
+    ],
+    "etc.": [
+        "et caetera (entre outras coisas, assim por diante)"
+    ],
+    "ex.": [
+        "exemplo"
+    ],
+    "Ex.ª": [
+        "Excelência"
+    ],
+    "Ex.mo": [
+        "Excelentíssimo"
+    ],
+    "Ex.ma": [
+        "Excelentíssima"
+    ],
+    "f.º": [
+        "fólio"
+    ],
+    "fasc.": [
+        "fascículo"
+    ],
+    "fig.": [
+        "figura"
+    ],
+    "fl.": [
+        "folha"
+    ],
+    "fr.": [
+        "frei"
+    ],
+    "fs.": [
+        "fac-símile"
+    ],
+    "gloss.": [
+        "glossário"
+    ],
+    "i. e.": [
+        "id est (isto é)"
+    ],
+    "ib.": [
+        "ibidem (no mesmo lugar)"
+    ],
+    "ibid.": [
+        "ibidem (no mesmo lugar)"
+    ],
+    "id.": [
+        "idem (o mesmo)"
+    ],
+    "lat.": [
+        "latim",
+        "latitude"
+    ],
+    "Ld.ª": [
+        "Limitada"
+    ],
+    "Lic.": [
+        "Licenciado"
+    ],
+    "Lic.ª": [
+        "Licenciada"
+    ],
+    "liv.": [
+        "livro"
+    ],
+    "loc. cit.": [
+        "loco citato (no lugar citado)"
+    ],
+    "M.e": [
+        "Mestre"
+    ],
+    "ms.": [
+        "manuscrito"
+    ],
+    "N. B.": [
+        "nota bene (note bem)"
+    ],
+    "N. da R.": [
+        "nota da redação"
+    ],
+    "N. do A.": [
+        "nota do autor"
+    ],
+    "N. do T.": [
+        "nota do tradutor"
+    ],
+    "n.º": [
+        "número"
+    ],
+    "ob.": [
+        "obra"
+    ],
+    "Obg.o": [
+        "obrigado"
+    ],
+    "Obg.ª": [
+        "obrigada"
+    ],
+    "obs.": [
+        "observação"
+    ],
+    "op. cit.": [
+        "opus citatum (obra citada)"
+    ],
+    "ob. cit.": [
+        "obra citada"
+    ],
+    "P. E. F.": [
+        "por especial favor"
+    ],
+    "p. ex.": [
+        "por exemplo"
+    ],
+    "p. f.": [
+        "por favor"
+    ],
+    "p. m.": [
+        "post meridiem (depois do meio-dia)"
+    ],
+    "p. p.": [
+        "por procuração"
+    ],
+    "P. S.": [
+        "post scriptum (pós-escrito)"
+    ],
+    "p.": [
+        "página"
+    ],
+    "pág.": [
+        "página"
+    ],
+    "proc.": [
+        "processo"
+    ],
+    "prof.": [
+        "professor"
+    ],
+    "prof.ª": [
+        "professora"
+    ],
+    "q. b.": [
+        "quanto baste"
+    ],
+    "R.": [
+        "rua, resposta",
+        "Rua"
+    ],
+    "r/c": [
+        "rés do chão"
+    ],
+    "rel.": [
+        "relatório"
+    ],
+    "s. d.": [
+        "sine data (sem data)"
+    ],
+    "S. Ex.ª": [
+        "Sua Excelência"
+    ],
+    "s. f. f.": [
+        "se faz favor"
+    ],
+    "s. l.": [
+        "sine loco (sem local)"
+    ],
+    "S. M.": [
+        "Sua Majestade"
+    ],
+    "s. p.": [
+        "sem página"
+    ],
+    "S. S.": [
+        "Sua Santidade"
+    ],
+    "S.": [
+        "são",
+        "São"
+    ],
+    "St.º": [
+        "santo"
+    ],
+    "St.ª": [
+        "santa",
+        "Santa"
+    ],
+    "S. A. R.": [
+        "Sua Alteza Real"
+    ],
+    "Sr.": [
+        "senhor",
+        "Senhor"
+    ],
+    "Sr.ª": [
+        "senhora",
+        "Senhora"
+    ],
+    "supl.": [
+        "suplemento"
+    ],
+    "t.": [
+        "tomo"
+    ],
+    "tip.": [
+        "tipografia"
+    ],
+    "tít.": [
+        "título"
+    ],
+    "trad.": [
+        "traduçãotradutor",
+        "tradutor"
+    ],
+    "V.": [
+        "ver"
+    ],
+    "V. A.": [
+        "Vossa Alteza"
+    ],
+    "V. Ex.ª": [
+        "Vossa Excelência"
+    ],
+    "v. g.": [
+        "verbi gratia (por exemplo)"
+    ],
+    "V. S. F. F.": [
+        "volte, se faz favor"
+    ],
+    "vd.": [
+        "vide (veja)"
+    ],
+    "vol.": [
+        "volume"
+    ],
+    "vs.": [
+        "versus"
+    ],
+    "Ac.": [
+        "Acesso "
+    ],
+    "Al.": [
+        "Alameda"
+    ],
+    "Alf.": [
+        "Alferes"
+    ],
+    "Alm.": [
+        "Almirante"
+    ],
+    "A. S.": [
+        "Área de Serviço"
+    ],
+    "Arq.ª": [
+        "Arquiteta"
+    ],
+    "Arq.": [
+        "Arquiteto"
+    ],
+    "Ass.": [
+        "Associação"
+    ],
+    "Av.": [
+        "Avenida"
+    ],
+    "Az.": [
+        "Azinhaga"
+    ],
+    "Br.": [
+        "Bairro"
+    ],
+    "Bc.": [
+        "Beco"
+    ],
+    "Bl.": [
+        "Bloco"
+    ],
+    "Brig.": [
+        "Brigadeiro"
+    ],
+    "Cç.": [
+        "Calçada"
+    ],
+    "Cçnh.": [
+        "Calçadinha"
+    ],
+    "Cam.": [
+        "Caminho"
+    ],
+    "Cap.": [
+        "Capitão"
+    ],
+    "Csl.": [
+        "Casal"
+    ],
+    "Cv.": [
+        "Cave"
+    ],
+    "Cid.": [
+        "Cidade"
+    ],
+    "Cmdt.": [
+        "Comandante"
+    ],
+    "Comend.": [
+        "Comendador"
+    ],
+    "Cons.": [
+        "Conselheiro"
+    ],
+    "Cor.": [
+        "Coronel"
+    ],
+    "Dir.": [
+        "Direita"
+    ],
+    "Dto.": [
+        "Direito"
+    ],
+    "D.ª": [
+        "Dona"
+    ],
+    "Dq.": [
+        "Duque"
+    ],
+    "Edf.": [
+        "Edifício"
+    ],
+    "Emb.": [
+        "Embaixador"
+    ],
+    "Enf.ª": [
+        "Enfermeira"
+    ],
+    "Enf.": [
+        "Enfermeiro"
+    ],
+    "Esc.": [
+        "Escadas"
+    ],
+    "Escnh.": [
+        "Escadinhas"
+    ],
+    "Esq.": [
+        "Esquerda"
+    ],
+    "Estr.": [
+        "Estrada"
+    ],
+    "Fr.": [
+        "Frei"
+    ],
+    "Ft.": [
+        "Frente"
+    ],
+    "Gen.": [
+        "General"
+    ],
+    "Hab.": [
+        "Habitação"
+    ],
+    "Inf.ª": [
+        "Infanta"
+    ],
+    "Inf.": [
+        "Infante"
+    ],
+    "Inst.": [
+        "Instituto"
+    ],
+    "Jrd.": [
+        "Jardim"
+    ],
+    "Lg.": [
+        "Largo"
+    ],
+    "Lj.": [
+        "Loja"
+    ],
+    "Lt.": [
+        "Lote"
+    ],
+    "Loteam.": [
+        "Loteamento"
+    ],
+    "Lug.": [
+        "Lugar"
+    ],
+    "Mar.": [
+        "Marechal"
+    ],
+    "M.ª": [
+        "Maria"
+    ],
+    "Mq.": [
+        "Marquês"
+    ],
+    "Min.": [
+        "Ministério"
+    ],
+    "Mun.": [
+        "Municipal"
+    ],
+    "N.ª Sr.ª": [
+        "Nossa Senhora"
+    ],
+    "N. Sr.": [
+        "Nosso Senhor"
+    ],
+    "Pq.": [
+        "Parque"
+    ],
+    "Pto.": [
+        "Pátio"
+    ],
+    "Pte.": [
+        "Ponte"
+    ],
+    "Pç.": [
+        "Praça"
+    ],
+    "Pct.": [
+        "Praceta"
+    ],
+    "Pres.": [
+        "Presidente"
+    ],
+    "1º de Maio": [
+        "Primeiro de Maio"
+    ],
+    "Prof.": [
+        "Professor"
+    ],
+    "Prof.ª": [
+        "Professora"
+    ],
+    "Proj.": [
+        "Projetada"
+    ],
+    "Prolng.": [
+        "Prolongamento"
+    ],
+    "Qt.ª": [
+        "Quinta"
+    ],
+    "Rc.": [
+        "Rés-do-chão"
+    ],
+    "St.": [
+        "Santo"
+    ],
+    "Sarg.": [
+        "Sargento"
+    ],
+    "Sn.": [
+        "Sem Número"
+    ],
+    "Slj.": [
+        "Sobre-loja"
+    ],
+    "Soc.": [
+        "Sociedade"
+    ],
+    "Scv.": [
+        "Sub-cave"
+    ],
+    "Ten.": [
+        "Tenente"
+    ],
+    "Tr.": [
+        "Torre"
+    ],
+    "Transv.": [
+        "Transversal"
+    ],
+    "Tv.": [
+        "Travessa"
+    ],
+    "Univ.": [
+        "Universidade"
+    ],
+    "Urb.": [
+        "Urbanização"
+    ],
+    "Vd.": [
+        "Viaduto"
+    ],
+    "Ve.": [
+        "Viela"
+    ],
+    "Vl.": [
+        "Vila"
+    ],
+    "Visc.ª": [
+        "Viscondessa"
+    ],
+    "Visc.": [
+        "Visconde"
+    ],
+    "Vv.": [
+        "Vivenda"
+    ],
+    "Zn.": [
+        "Zona"
+    ],
+    "CGD": [
+        "Caixa Geral de Depósitos"
+    ],
+    "PSP": [
+        "Polícia Segurança Pública"
+    ],
+    "CTT": [
+        "Posto dos Correios"
+    ],
+    "GNR": [
+        "Guarda Nacional Republicana"
+    ],
+    "aki": [
+        "aqui"
+    ],
+    "bj": [
+        "beijo"
+    ],
+    "bjo": [
+        "beijo"
+    ],
+    "bjs": [
+        "beijos"
+    ],
+    "blz": [
+        "beleza"
+    ],
+    "cmg": [
+        "comigo "
+    ],
+    "ctg": [
+        "contigo"
+    ],
+    "ctz": [
+        "certeza"
+    ],
+    "d+": [
+        "demais"
+    ],
+    "dnv": [
+        "de novo"
+    ],
+    "dps": [
+        "depois"
+    ],
+    "eh": [
+        "é"
+    ],
+    "fds": [
+        "fim de semana",
+        "foda-se"
+    ],
+    "flw": [
+        "falou"
+    ],
+    "ft": [
+        "foto"
+    ],
+    "fz": [
+        "fazer"
+    ],
+    "gnt": [
+        "gente"
+    ],
+    "hj": [
+        "hoje"
+    ],
+    "kd": [
+        "cadê"
+    ],
+    "msg": [
+        "mensagem"
+    ],
+    "msm": [
+        "mesmo"
+    ],
+    "n": [
+        "não"
+    ],
+    "nd": [
+        "nada"
+    ],
+    "neh": [
+        "né?"
+    ],
+    "ngm": [
+        "ninguém"
+    ],
+    "oq": [
+        "o que"
+    ],
+    "p": [
+        "para"
+    ],
+    "pf": [
+        "por favor"
+    ],
+    "pfv": [
+        "por favor"
+    ],
+    "plmdds": [
+        "pelo amor de Deus"
+    ],
+    "pq": [
+        "porque"
+    ],
+    "q": [
+        "que"
+    ],
+    "qd": [
+        "quando"
+    ],
+    "qdo": [
+        "quando"
+    ],
+    "qq": [
+        "qualquer"
+    ],
+    "qqr": [
+        "qualquer"
+    ],
+    "qr": [
+        "quer"
+    ],
+    "rlx": [
+        "relaxa"
+    ],
+    "sdds": [
+        "saudades"
+    ],
+    "sla": [
+        "sei lá"
+    ],
+    "sl": [
+        "sei lá"
+    ],
+    "tbm": [
+        "também"
+    ],
+    "tb": [
+        "também"
+    ],
+    "td": [
+        "tudo",
+        "todo"
+    ],
+    "tmj": [
+        "tamo junto"
+    ],
+    "vc": [
+        "você"
+    ],
+    "vcs": [
+        "vocês"
+    ],
+    "vdd": [
+        "verdade"
+    ],
+    "vlw": [
+        "valeu"
+    ],
+    "vms": [
+        "vamos"
+    ],
+    "zap": [
+        "WhatsApp"
+    ],
+    "Abs": [
+        "abraços"
+    ],
+    "Add": [
+        "adicionar"
+    ],
+    "Amg": [
+        "amigo",
+        "amiga"
+    ],
+    "Amr": [
+        "amor"
+    ],
+    "Bbq": [
+        "babaca"
+    ],
+    "Bff": [
+        "melhores amigas pra sempre"
+    ],
+    "Bjs": [
+        "beijos"
+    ],
+    "Brinks": [
+        "brincadeira"
+    ],
+    "Btf": [
+        "boto fé"
+    ],
+    "Cmg": [
+        "comigo"
+    ],
+    "Ctg": [
+        "contigo"
+    ],
+    "Ctz": [
+        "com certeza"
+    ],
+    "Dlç": [
+        "delícia"
+    ],
+    "Dnd": [
+        "de nada"
+    ],
+    "Dnv": [
+        "de novo"
+    ],
+    "Fikdik": [
+        "fica a dica"
+    ],
+    "Gnt": [
+        "gente"
+    ],
+    "Glr": [
+        "galera"
+    ],
+    "Img": [
+        "imagem"
+    ],
+    "Mds": [
+        "meu Deus"
+    ],
+    "Mlr": [
+        "mulher",
+        "melhor"
+    ],
+    "Mntr": [
+        "mentira"
+    ],
+    "Msg": [
+        "mensagem"
+    ],
+    "Msm": [
+        "mesmo"
+    ],
+    "Mto": [
+        "muito"
+    ],
+    "N": [
+        "não"
+    ],
+    "Nd": [
+        "nada"
+    ],
+    "Ndv": [
+        "nada a ver"
+    ],
+    "Ngm": [
+        "ninguém"
+    ],
+    "Nuss": [
+        "nossa!"
+    ],
+    "Obg": [
+        "obrigado",
+        "obrigada"
+    ],
+    "Pfv": [
+        "por favor"
+    ],
+    "Plmdds": [
+        "pelo amor de deus",
+        "Pelo amor de Deus"
+    ],
+    "Pq": [
+        "porque"
+    ],
+    "Qdo": [
+        "quando"
+    ],
+    "Qnt": [
+        "quanto"
+    ],
+    "Qqr": [
+        "qualquer"
+    ],
+    "Qrdo": [
+        "querido"
+    ],
+    "Qrda": [
+        "querida"
+    ],
+    "Qro": [
+        "quero"
+    ],
+    "Rs": [
+        "risos"
+    ],
+    "s": [
+        "sim"
+    ],
+    "S2 ": [
+        "emoticon de coração"
+    ],
+    "Sdds": [
+        "saudades"
+    ],
+    "Sdv": [
+        "segue de volta"
+    ],
+    "Slv": [
+        "só li verdades"
+    ],
+    "Sqn": [
+        "só que não"
+    ],
+    "Sqs": [
+        "só que sim"
+    ],
+    "Tbm": [
+        "também"
+    ],
+    "Tc": [
+        "teclar"
+    ],
+    "Tdb": [
+        "tudo bem"
+    ],
+    "Vc": [
+        "você"
+    ],
+    "Vdd": [
+        "verdade"
+    ],
+    "Vntd": [
+        "vontade"
+    ],
+    "Vsf": [
+        "vai se ferrar"
+    ],
+    "Xoxo": [
+        "beijos e abraços"
+    ],
+    "Zap zap": [
+        "whatsapp"
+    ],
+    "PLMDDS": [
+        "pelo amor de deus!"
+    ],
+    "fdp": [
+        "filho da puta"
+    ],
+    "crl": [
+        "caralho"
+    ],
+    "Mn": [
+        "mano"
+    ],
+    "Blz": [
+        "beleza"
+    ],
+    "Tm": [
+        "tamo"
+    ],
+    "Pdc": [
+        "pode crer"
+    ],
+    "Mddc": [
+        "meu deus do céu"
+    ],
+    "Slk": [
+        "se é louco"
+    ],
+    "Tlgd": [
+        "Tá ligado"
+    ],
+    "Pv": [
+        "privado"
+    ],
+    "Plmns": [
+        "pelo menos"
+    ],
+    "Ngc": [
+        "negócio"
+    ],
+    "Tb": [
+        "também"
+    ],
+    "Fzr": [
+        "fazer"
+    ],
+    "Dps": [
+        "depois"
+    ],
+    "Ft": [
+        "foto"
+    ],
+    "Fml": [
+        "família"
+    ],
+    "Rlx": [
+        "relaxa"
+    ],
+    "Fut": [
+        "futebol"
+    ],
+    "Bj": [
+        "beijo"
+    ],
+    "Ajd": [
+        "ajuda"
+    ],
+    "Pls": [
+        "please"
+    ],
+    "Vlw": [
+        "valeu"
+    ],
+    "Hrs": [
+        "horas"
+    ],
+    "Att": [
+        "ah tá"
+    ],
+    "Pprt": [
+        "papo reto"
+    ],
+    "Cvs": [
+        "conversar"
+    ],
+    "Ss": [
+        "sim"
+    ],
+    "Qt": [
+        "quanto"
+    ],
+    "Nn": [
+        "não"
+    ],
+    "Clr": [
+        "celular"
+    ],
+    "Sla": [
+        "Sei lá"
+    ],
+    "Qria": [
+        "queria"
+    ],
+    "Qser": [
+        "quiser"
+    ],
+    "Pft": [
+        "perfeito"
+    ],
+    "Sm": [
+        "sem"
+    ],
+    "Cm": [
+        "com"
+    ],
+    "Vms": [
+        "vamos"
+    ],
+    "Flw": [
+        "falou"
+    ],
+    "Trd": [
+        "tarde"
+    ],
+    "Aq": [
+        "aqui"
+    ],
+    "Bnt": [
+        "bonito"
+    ],
+    "ADD": [
+        "adicionar"
+    ],
+    "ASAP": [
+        "o mais rápido possível"
+    ],
+    "BB": [
+        "baby"
+    ],
+    "BFF": [
+        "melhores amigas para sempre"
+    ],
+    "BRB": [
+        "volto já"
+    ],
+    "BTW": [
+        "a propósito"
+    ],
+    "MSG": [
+        "mensagem "
+    ],
+    "OMG": [
+        "Oh, meu Deus!"
+    ],
+    "PFV": [
+        "por favor"
+    ],
+    "PF": [
+        "por favor"
+    ],
+    "PFVR": [
+        "por favor"
+    ],
+    "PLZ": [
+        "por favor"
+    ],
+    "PLS": [
+        "por favor"
+    ],
+    "PQ": [
+        "por que",
+        "porque"
+    ],
+    "SDDS": [
+        "saudades"
+    ],
+    "SDV": [
+        "segue de volta"
+    ],
+    "SQN": [
+        "só que não"
+    ],
+    "THX": [
+        "obrigado"
+    ],
+    "W8": [
+        "espera"
+    ],
+    "WTF": [
+        "Que raio é isto?"
+    ],
+    "XOXO": [
+        "beijos e abraços"
+    ]
+}
