@@ -1,0 +1,120 @@
+A.:autor
+AA.:autores
+a/c:ao cuidado de
+a. C.:antes de Cristo
+a. D.:Anno Domini (Ano do Senhor)
+a. l.:ano-luz
+a. m.:ante meridiem (antes do meio dia)
+abrev.:abreviatura
+al.:alameda
+art.:artigo
+at.º:atento
+at.te:atenciosamente
+av.:avenida
+bol.:boletim
+C.ª:companhia
+c/c:conta-corrente
+cap.:capítulo
+cat.:catálogo
+cf.:confronte
+cf.:confira
+cit.:citação
+cit.:citado
+cód.:código
+col.:coluna
+colet.:coletânea
+cp.:compare
+d. C.:depois de Cristo
+D.:Dom
+D.:Dona
+Dig.mo: Digníssimo
+doc.:documento
+Dr.:Doutor
+Dr.ª:Doutora
+E. C.:abreviatura de Era Cristã ou Era Comum
+E. D.:espera deferimento
+e. g.:exempli gratia (por exemplo)
+ed.:edição
+enc.:encadernado ou encadernação
+Eng.:Engenheiro
+Eng.ª:Engenheira
+et al.:et alli (entre outros)
+etc.:et caetera (entre outras coisas, assim por diante)
+ex.:exemplo
+Ex.ª:Excelência
+Ex.mo:Excelentíssimo
+Ex.ma:Excelentíssima
+f.º:fólio
+fasc.:fascículo
+fig.:figura
+fl.:folha
+fr.:frei
+fs.:fac-símile
+gloss.:glossário
+i. e.:id est (isto é)
+ib.:ibidem (no mesmo lugar)
+ibid.:ibidem (no mesmo lugar)
+id.:idem (o mesmo)
+lat.:latim
+lat.:latitude
+Ld.ª:Limitada
+Lic.:Licenciado
+Lic.ª:Licenciada
+liv.:livro
+loc. cit.:loco citato (no lugar citado)
+M.e:Mestre
+ms.:manuscrito
+N. B.:nota bene (note bem)
+N. da R.:nota da redação
+N. do A.:nota do autor
+N. do T.:nota do tradutor
+n.º:número
+ob.:obra
+Obg.o:obrigado
+Obg.ª:obrigada
+obs.:observação
+op. cit.:opus citatum (obra citada)
+ob. cit.:obra citada
+P. E. F.:por especial favor
+p. ex.:por exemplo
+p. f.:por favor
+p. m.:post meridiem (depois do meio-dia)
+p. p.:por procuração
+P. S.:post scriptum (pós-escrito)
+p.:página
+pág.:página
+proc.:processo
+prof.:professor
+prof.ª:professora
+q. b.:quanto baste
+R.:rua, resposta
+r/c:rés do chão
+rel.:relatório
+s. d.:sine data (sem data)
+S. Ex.ª:Sua Excelência
+s. f. f.:se faz favor
+s. l.:sine loco (sem local)
+S. M.:Sua Majestade
+s. p.:sem página
+S. S.:Sua Santidade
+S.:são
+St.º:santo
+St.ª:santa
+S. A. R.:Sua Alteza Real
+S. M.:Sua Majestade
+Sr.:senhor
+Sr.ª:senhora
+supl.:suplemento
+t.:tomo
+tip.:tipografia
+tít.:título
+trad.:traduçãotradutor
+trad.:tradutor
+V.:ver
+V. A.:Vossa Alteza
+V. Ex.ª:Vossa Excelência
+v. g.:verbi gratia (por exemplo)
+V. S. F. F.:volte, se faz favor
+vd.:vide (veja)
+vol.:volume
+vs.:versus

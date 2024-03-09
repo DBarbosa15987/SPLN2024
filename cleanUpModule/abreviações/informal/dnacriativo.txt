@@ -1,0 +1,60 @@
+Abs:abraços
+Add:adicionar
+Amg:amigo
+Amg:amiga
+Amr:amor
+Bbq:babaca
+Bff:melhores amigas pra sempre
+Bjs:beijos
+Brinks:brincadeira
+Btf:boto fé
+Cmg:comigo
+Ctg:contigo
+Ctz:com certeza
+Dlç:delícia
+Dnd:de nada
+Dnv:de novo
+Fikdik:fica a dica
+Gnt:gente
+Glr:galera
+Img:imagem
+Mds:meu Deus
+Mlr:mulher
+Mntr:mentira
+Msg:mensagem
+Msm:mesmo
+Mto:muito
+N:não
+Nd:nada
+Ndv:nada a ver
+Ngm:ninguém
+Nuss:nossa!
+Obg:obrigado
+Obg:obrigada
+Pfv:por favor
+Plmdds:pelo amor de deus
+Pq:porque
+Qdo:quando
+Qnt:quanto
+Qqr:qualquer
+Qrdo:querido
+Qrda:querida
+Qro:quero
+Rs:risos
+s:sim
+S2 :emoticon de coração
+Sdds:saudades
+Sdv:segue de volta
+Slv:só li verdades
+Sqn:só que não
+Sqs:só que sim
+Tbm:também
+Tc:teclar
+Tdb:tudo bem
+Vc:você
+Vdd:verdade
+Vntd:vontade
+Vsf:vai se ferrar
+Xoxo:beijos e abraços
+Zap zap:whatsapp
+PLMDDS:pelo amor de deus!

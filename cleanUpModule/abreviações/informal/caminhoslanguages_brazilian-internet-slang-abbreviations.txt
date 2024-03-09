@@ -1,0 +1,52 @@
+aki:aqui
+bj:beijo
+bjo:beijo
+bjs:beijos
+blz:beleza
+cmg:comigo 
+ctg:contigo
+ctz:certeza
+d+:demais
+dnv:de novo
+dps:depois
+eh:é
+fds:fim de semana
+flw:falou
+ft:foto
+fz:fazer
+gnt:gente
+hj:hoje
+kd:cadê
+msg:mensagem
+msm:mesmo
+n:não
+nd:nada
+neh:né?
+ngm:ninguém
+oq:o que
+p:para
+pf:por favor
+pfv:por favor
+plmdds:pelo amor de Deus
+pq:porque
+q:que
+qd:quando
+qdo:quando
+qq:qualquer
+qqr:qualquer
+qr:quer
+rlx:relaxa
+sdds:saudades
+sla:sei lá
+sl:sei lá
+tbm:também
+tb:também
+td:tudo
+td:todo
+tmj:tamo junto
+vc:você
+vcs:vocês
+vdd:verdade
+vlw:valeu
+vms:vamos
+zap:WhatsApp

@@ -1,0 +1,22 @@
+ADD:adicionar
+ASAP:o mais rápido possível
+BB:baby
+BFF:melhores amigas para sempre
+BRB:volto já
+BTW:a propósito
+MSG:mensagem 
+OMG:Oh, meu Deus!
+PFV:por favor
+PF:por favor
+PFVR:por favor
+PLZ:por favor
+PLS:por favor
+PQ:por que
+PQ:porque
+SDDS:saudades
+SDV:segue de volta
+SQN:só que não
+THX:obrigado
+W8:espera
+WTF:Que raio é isto?
+XOXO:beijos e abraços

@@ -1,0 +1,7 @@
+volp-acp.txt: https://www.volp-acl.pt/index.php/geral/abreviaturas
+waze.txt: https://www.waze.com/wiki/Portugal/Guia_sobre_as_abreviaturas
+caminhoslanguages_brazilian-internet-slang-abbreviations.txt: https://caminhoslanguages.com/br/blog/brazilian-internet-slang-abbreviations/
+dnacriativo.txt: https://www.dnacriativo.com/post/o-que-e-internetes-saiba-mais-sobre-a-linguagem-da-internet
+globo.txt: https://gshow.globo.com/programas/mais-voce/noticia/veja-lista-de-abreviacoes-usadas-pelos-jovens-em-troca-de-mensagens-na-internet.ghtml
+iscte.txt: https://ciberduvidas.iscte-iul.pt/outros/diversidades/as-siglas-mais-usadas-pelos-escreventes-apressados/3943#
+slicktext_text-abbreviations-guide.txt: https://www.slicktext.com/blog/2019/02/text-abbreviations-guide/
