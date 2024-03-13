@@ -1,0 +1,116 @@
+Ac.:Acesso 
+Al.:Alameda
+Alf.:Alferes
+Alm.:Almirante
+A. S.:Área de Serviço
+Arq.ª:Arquiteta
+Arq.:Arquiteto
+Ass.:Associação
+Av.:Avenida
+Az.:Azinhaga
+Br.:Bairro
+Bc.:Beco
+Bl.:Bloco
+Brig.:Brigadeiro
+Cç.:Calçada
+Cçnh.:Calçadinha
+Cam.:Caminho
+Cap.:Capitão
+Csl.:Casal
+Cv.:Cave
+Cid.:Cidade
+Cmdt.:Comandante
+Comend.:Comendador
+Cons.:Conselheiro
+Cor.:Coronel
+Dir.:Direita
+Dto.:Direito
+D.:Dom
+D.ª:Dona
+Dr.:Doutor
+Dr.ª:Doutora
+Dq.:Duque
+Edf.:Edifício
+Emb.:Embaixador
+Enf.ª:Enfermeira
+Enf.:Enfermeiro
+Eng.ª:Engenheira
+Eng.:Engenheiro
+Esc.:Escadas
+Escnh.:Escadinhas
+Esq.:Esquerda
+Estr.:Estrada
+Fr.:Frei
+Ft.:Frente
+Gen.:General
+Hab.:Habitação
+Inf.ª:Infanta
+Inf.:Infante
+Inst.:Instituto
+Jrd.:Jardim
+Lg.:Largo
+Lj.:Loja
+Lt.:Lote
+Loteam.:Loteamento
+Lug.:Lugar
+Mar.:Marechal
+M.ª:Maria
+Mq.:Marquês
+Min.:Ministério
+Mun.:Municipal
+N.ª Sr.ª:Nossa Senhora
+N. Sr.:Nosso Senhor
+Pq.:Parque
+Pto.:Pátio
+Pte.:Ponte
+Pç.:Praça
+Pct.:Praceta
+Pres.:Presidente
+1º de Maio:Primeiro de Maio
+Prof.:Professor
+Prof.ª:Professora
+Proj.:Projetada
+Prolng.:Prolongamento
+Qt.ª:Quinta
+Rc.:Rés-do-chão
+R.:Rua
+St.ª:Santa
+St.:Santo
+S.:São
+Sarg.:Sargento
+Sn.:Sem Número
+Sr.:Senhor
+Sr.ª:Senhora
+Slj.:Sobre-loja
+Soc.:Sociedade
+Scv.:Sub-cave
+Ten.:Tenente
+Tr.:Torre
+Transv.:Transversal
+Tv.:Travessa
+Univ.:Universidade
+Urb.:Urbanização
+Vd.:Viaduto
+Ve.:Viela
+Vl.:Vila
+Visc.ª:Viscondessa
+Visc.:Visconde
+Vv.:Vivenda
+Zn.:Zona
+D.:Dom
+D.ª:Dona
+Dr.:Doutor
+Dr.ª:Doutora
+M.ª:Maria
+N.ª Sr.ª:Nossa Senhora
+N. Sr.:Nosso Senhor
+Qt.ª:Quinta
+St.ª:Santa
+St.:Santo
+S.:São
+Sr.:Senhor
+Sr.ª:Senhora
+CGD:Caixa Geral de Depósitos
+PSP:Polícia Segurança Pública
+CTT:Posto dos Correios
+GNR:Guarda Nacional Republicana

@@ -1,0 +1,58 @@
+Mn:mano
+Blz:beleza
+Tm:tamo
+Pdc:pode crer
+Gnt:gente
+Mddc:meu deus do céu
+Plmdds:Pelo amor de Deus
+Sdds:saudades
+Sqn:só que não
+Vdd:verdade
+Slk:se é louco
+Mlr:melhor
+Tlgd:Tá ligado
+Pv:privado
+Plmns:pelo menos
+Ngc:negócio
+Vc:você
+Tb:também
+Fzr:fazer
+Dps:depois
+Ft:foto
+Fml:família
+Rlx:relaxa
+Fut:futebol
+Bj:beijo
+Ajd:ajuda
+Pls:please
+Obg:obrigada
+Pq:porque
+Vlw:valeu
+Hrs:horas
+Nd:nada
+Pfv:por favor
+Att:ah tá
+Msm:mesmo
+Msg:mensagem
+Add:adicionar
+Cmg:comigo
+Glr:galera
+Pprt:papo reto
+Cvs:conversar
+Ss:sim
+Qt:quanto
+Nn:não
+Clr:celular
+Sla:Sei lá
+Qria:queria
+Qser:quiser
+Pft:perfeito
+Dnv:de novo
+Sm:sem
+Cm:com
+Vms:vamos
+Flw:falou
+Trd:tarde
+Aq:aqui
+Bnt:bonito
+Ngm:ninguém
