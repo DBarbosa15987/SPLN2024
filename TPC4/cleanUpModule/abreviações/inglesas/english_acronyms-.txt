@@ -1,7 +1,0 @@
-IMHO:In My Humble Opinion
-HTH:Happy To Help
-GOMF:Get Outta My Face
-FYA:For Your Amusement
-FYE:For Your Entertainment
-DYK:Did You Know
-AYT:Are You There?
