@@ -1,0 +1,233 @@
+Ac.:Acesso
+Al.:Alameda
+Alf.:Alferes
+Alm.:Almirante
+A.S.:Área de Serviço
+Arq.ª:Arquiteta
+Arq.:Arquiteto
+Ass.:Associação
+Av.:Avenida
+Az.:Azinhaga
+Br.:Bairro
+Bc.:Beco
+Bl.:Bloco
+Brig.:Brigadeiro
+Cç.:Calçada
+Cçnh.:Calçadinha
+Cam.:Caminho
+Cap.:Capitão
+Csl.:Casal
+Cv.:Cave
+Cid.:Cidade
+Cmdt.:Comandante
+Comend.:Comendador
+Cons.:Conselheiro
+Cor.:Coronel
+Dir.:Direita
+Dto.:Direito
+D.:Dom
+D.ª:Dona
+Dr.:Doutor
+Dr.ª:Doutora
+Dq.:Duque
+Edf.:Edifício
+Emb.:Embaixador
+Enf.ª:Enfermeira
+Enf.:Enfermeiro
+Eng.ª:Engenheira
+Eng.:Engenheiro
+Esc.:Escadas
+Escnh.:Escadinhas
+Esq.:Esquerda
+Estr.:Estrada
+Fr.:Frei
+Ft.:Frente
+Gen.:General
+Hab.:Habitação
+Inf.ª:Infanta
+Inf.:Infante
+Inst.:Instituto
+Jrd.:Jardim
+Lg.:Largo
+Lj.:Loja
+Lt.:Lote
+Loteam.:Loteamento
+Lug.:Lugar
+Mar.:Marechal
+M.ª:Maria
+Mq.:Marquês
+Min.:Ministério
+Mun.:Municipal
+N.ª Sr.ª:Nossa Senhora
+N.Sr.:Nosso Senhor
+Pq.:Parque
+Pto.:Pátio
+Pte.:Ponte
+Pç.:Praça
+Pct.:Praceta
+Pres.:Presidente
+Prof.:Professor
+Prof.ª:Professora
+Proj.:Projetada
+Prolng.:Prolongamento
+Qt.ª:Quinta
+Rc.:Rés-do-chão
+R.:Rua
+St.ª:Santa
+St.:Santo
+S.:São
+Sarg.:Sargento
+Sn.:Sem Número
+Sr.:Senhor
+Sr.ª:Senhora
+Slj.:Sobre-loja
+Soc.:Sociedade
+Scv.:Sub-cave
+Ten.:Tenente
+Tr.:Torre
+Transv.:Transversal
+Tv.:Travessa
+Univ.:Universidade
+Urb.:Urbanização
+Vd.:Viaduto
+Ve.:Viela
+Vl.:Vila
+Visc.ª:Viscondessa
+Visc.:Visconde
+Vv.:Vivenda
+Zn.:Zona
+D.:Dom
+D.ª:Dona
+Dr.:Doutor
+Dr.ª:Doutora
+M.ª:Maria
+N.ª Sr.ª:Nossa Senhora
+N.Sr.:Nosso Senhor
+Qt.ª:Quinta
+St.ª:Santa
+St.:Santo
+S.:São
+Sr.:Senhor
+Sr.ª:Senhora
+CGD:Caixa Geral de Depósitos
+PSP:Polícia Segurança Pública
+CTT:Posto dos Correios
+GNR:Guarda Nacional Republicana
+A.:autor
+AA.:autores
+a/c:ao cuidado de
+a.C.:antes de Cristo
+a.D.:Anno Domini (Ano do Senhor)
+a.l.:ano-luz
+a.m.:ante meridiem (antes do meio dia)
+abrev.:abreviatura
+al.:alameda
+art.:artigo
+at.º:atento
+at.te:atenciosamente
+av.:avenida
+bol.:boletim
+C.ª:companhia
+c/c:conta-corrente
+cap.:capítulo
+cat.:catálogo
+cf.:confronte
+cf.:confira
+cit.:citação
+cit.:citado
+cód.:código
+col.:coluna
+colet.:coletânea
+cp.:compare
+d.C.:depois de Cristo
+D.:Dom
+D.:Dona
+Dig.mo: Digníssimo
+doc.:documento
+Dr.:Doutor
+Dr.ª:Doutora
+E.C.:abreviatura de Era Cristã ou Era Comum
+E.D.:espera deferimento
+e.g.:exempli gratia (por exemplo)
+ed.:edição
+enc.:encadernado ou encadernação
+Eng.:Engenheiro
+Eng.ª:Engenheira
+et al.:et alli (entre outros)
+etc.:et caetera (entre outras coisas, assim por diante)
+ex.:exemplo
+Ex.ª:Excelência
+Ex.mo:Excelentíssimo
+Ex.ma:Excelentíssima
+f.º:fólio
+fasc.:fascículo
+fig.:figura
+fl.:folha
+fr.:frei
+fs.:fac-símile
+gloss.:glossário
+i.e.:id est (isto é)
+ib.:ibidem (no mesmo lugar)
+ibid.:ibidem (no mesmo lugar)
+id.:idem (o mesmo)
+lat.:latim
+lat.:latitude
+Ld.ª:Limitada
+Lic.:Licenciado
+Lic.ª:Licenciada
+liv.:livro
+loc.cit.:loco citato (no lugar citado)
+M.e:Mestre
+ms.:manuscrito
+N.B.:nota bene (note bem)
+n.º:número
+ob.:obra
+Obg.º:obrigado
+Obg.ª:obrigada
+obs.:observação
+op.cit.:opus citatum (obra citada)
+ob.cit.:obra citada
+P.E.F.:por especial favor
+p.ex.:por exemplo
+p.f.:por favor
+p.m.:post meridiem (após o meio-dia)
+p.p.:por procuração
+P.S.:post scriptum (pós-escrito)
+p.:página
+pág.:página
+proc.:processo
+prof.:professor
+prof.ª:professora
+q.b.:quanto baste
+R.:rua
+R.:resposta
+r/c:rés do chão
+rel.:relatório
+s.d.:sine data (sem data)
+S.Ex.ª:Sua Excelência
+s.f.f.:se faz favor
+s.l.:sine loco (sem local)
+S.M.:Sua Majestade
+s.p.:sem página
+S.S.:Sua Santidade
+S.:são
+St.º:santo
+St.ª:santa
+S.A.R.:Sua Alteza Real
+S.M.:Sua Majestade
+Sr.:senhor
+Sr.ª:senhora
+supl.:suplemento
+t.:tomo
+tip.:tipografia
+tít.:título
+trad.:tradução
+trad.:tradutor
+V.:ver
+V.A.:Vossa Alteza
+V.Ex.ª:Vossa Excelência
+v.g.:verbi gratia (por exemplo)
+V.S.F.F.:volte, se faz favor
+vd.:vide (veja)
+vol.:volume
+vs.:versus
