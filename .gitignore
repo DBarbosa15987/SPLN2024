@@ -1,2 +1,4 @@
 TPC1/wfModule/wf/__pycache__
 TPC4/cleanUpModule/abreviações/fontes.txt
+TPC4/cleanUpModule/*.txt
+TPC4/cleanUpModule/*.json
