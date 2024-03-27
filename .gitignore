@@ -5,3 +5,4 @@ TPC4/cleanUpModule/*.json
 TPC5/__pycache__/
 TPC5/*.csv
 TPC5/*.txt
+TPC5/*.json
