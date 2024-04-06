@@ -7,7 +7,7 @@ SYNOPSIS
    friends [options] inputFile
    options:
         -f [3] : shows top [3] friends for every character
-        -o dump.json : makes dump.json the output file (defalt to STDOUT) 
+        -o dump.json : makes dump.json the output file (default to STDOUT) 
         -c Harry : Shows Harry's friend list
         
 DESCRIPTION
@@ -16,52 +16,78 @@ DESCRIPTION
 
 """
 
-from curses.ascii import isspace
 import spacy
 import sys
-from jjcli import * 
-from spacy import displacy
+from jjcli import * # type: ignore
 import json
+from spacy.language import Language
+from spacy.symbols import ORTH
+
+
+def extract_chapters(markdown_text):
+    chapters = {}
+    lines = markdown_text.split('\n')
+    current_chapter_number = None
+    current_chapter_text = ''
+    actualText = ""
+
+    # Discard preface
+    for i,line in enumerate(lines):
+        if line.startswith('# '):
+            actualText = lines[i:]
+            break
+
+    
+    # Actual Text
+    for line in actualText:
+        if line.startswith('# '):
+
+            if current_chapter_number is not None:
+                chapters[current_chapter_number] = current_chapter_text.strip()
+                current_chapter_text = ''
+            current_chapter_number = line.replace("# ","")
+        else:
+            current_chapter_text += line
+
+    # Add the last chapter
+    if current_chapter_number is not None:
+        chapters[str(current_chapter_number)] = current_chapter_text.strip()
+
+    return '\n'.join(chapters.values())
+
+
+@Language.component("set_custom_boundaries")
+def set_custom_boundaries(doc):
+
+    for token in doc[:-1]:
+        if token.text == "——":
+            doc[token.i + 1].is_sent_start = True
+        if token.text == "—":
+            doc[token.i + 1].is_sent_start = True
+    return doc
 
 
 def process(text):
 
-    nlp = spacy.load("pt_core_news_lg")
-
-    # f = open(sys.argv[-1],'r')
-    # text = f.read()
-    # f.close()
-    doc = nlp(text)
-
-    with doc.retokenize() as retokenizer:
-        for entity in doc.ents:
-            retokenizer.merge(entity)
-
     dicFriends = {}
 
-    #data = "Palavra\tPOS_\tlemma_\tDEP\n"
-    for sentence in doc.sents:
+    for sentence in text.sents:
         for token in sentence:
             if not token.is_space:
                 if token.pos_ == "PROPN":
-                    str_key = token.text
+                    str_key = token.text.lower().capitalize()
 
                     if str_key not in dicFriends:
                         dicFriends[str_key] = {}
                     
                     for tokenIn in sentence:
-                        friend = tokenIn.text
+                        friend = tokenIn.text.lower().capitalize()
                         if friend != str_key:
                             if tokenIn.pos_ == "PROPN":
                                 if friend in dicFriends[str_key]:
                                     dicFriends[str_key][friend] += 1
                                 else:
                                     dicFriends[str_key][friend] = 1
-                                    
-                # if token.pos_ == "PRON":
-                #     data += f"{token.text}\t{token.pos_}\t{token.ent_type}\t{token.dep_}\n"
-                # else:
-                #     data += f"{token.text}\t{token.pos_}\t{token.lemma_}\t{token.dep_}\n"
 
     sortedDicFriends = {}
     for character in dicFriends:
@@ -77,7 +103,13 @@ def main():
 
     
     for text in cl.text():
-        friendOs = process(text)
+
+        nlp = spacy.load("pt_core_news_lg")
+        nlp.add_pipe("set_custom_boundaries", before="parser")
+
+        doc = nlp(text)
+
+        friendOs = process(doc)
 
         if "-c" in cl.opt:
             characterPivot = str(cl.opt.get("-c"))
@@ -96,13 +128,9 @@ def main():
             outputFile = str(cl.opt.get("-o"))
             with open(outputFile,'w') as f:
                 json.dump(friendOs,f,ensure_ascii=False,indent=4)
-            #f = open("spacyOutput.csv",'w')
-            #f.write(data)
-            #f.close()
         else:
             jsonStr = json.dumps(friendOs,indent=4,ensure_ascii=False)
             print(jsonStr)
-
 
 
 if __name__ == "__main__":
